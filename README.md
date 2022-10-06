@@ -1,16 +1,16 @@
-<h1 align="center">Hey, I'm Adarsh Kumar</h1>
+<h1 align="center">Hey, I'm Dheeraj Singh</h1>
 <h3 align="center">An enthusiastic Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh-k0802&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh-k0802" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj-singh-github&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj-singh-github" /> </p>
 
 -> I’m currently learning **MERN Stack**
 
--> How to reach me **adarshk0802@gmail.com**
+-> How to reach me **dheerajdhiruxyz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adarsh-kumar-0802/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adarshk0802" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarsh-kumar" height="30" width="40" /></a>
+<a href="linkedin.com/in/dheeraj-singh-33793a201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dheeraj SIngh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pattinson_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dheeraj singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Frameworks:</h3>
@@ -21,20 +21,20 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-k0802&theme=react" alt="Adarsh-k0802" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-singh-github&theme=react" alt="dheeraj-singh-github" /></p>
 
 
 
 
-<a href="https://github.com/Adarsh-k0802/github-readme-stats">
+<a href="https://github.com/dheeraj-singh-github/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-k0802&layout=compact&theme=react&count_private=true" />
 </a>
-<a href="https://github.com/Adarsh-k0802/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh-k0802&show_icons=true&theme=react&count_private=true" />
+<a href="https://github.com/dheeraj-singh-github/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-singh-github&show_icons=true&theme=react&count_private=true" />
 </a>
 
 
 
 
 
-[![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Adarsh-k0802&theme=react-dark)](https://github.com/Adarsh-k0802/github-readme-activity-graph)
+[![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dheeraj-singh-github&theme=react-dark)](https://github.com/dheeraj-singh-github/github-readme-activity-graph)
